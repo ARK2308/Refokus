@@ -3,7 +3,7 @@ import Button from './Button'
 
 const Navbar = () => {
   return (
-    <div className='max-w-screen-lg p-3 py-3 mx-auto flex justify-between items-center text-white border-b-[1px] border-zinc-700'>
+    <div className='max-w-screen-xl p-3 py-3 mx-auto flex justify-between items-center text-white border-b-[1px] border-zinc-700'>
    <div className='n-left flex items-center'>
    <div className='image-section flex'>
         <img 
